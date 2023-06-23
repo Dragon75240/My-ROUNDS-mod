@@ -1,10 +1,14 @@
 # My-ROUNDS-mod
 
+## Source
+
+https://github.com/Dragon75240/My-ROUNDS-mod-source
+
 ## Features
 
 ### Keybinds
 
-H - Double jump height \n
+H - Double jump height
 J - Regular jump height
 
 ### Misc. Stuff
