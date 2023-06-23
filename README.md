@@ -19,4 +19,6 @@ MelonLoader
 # How to install
 Install MelonLoader
 Download this repo
-Extract everything inside My-ROUNDS-mod master into your rounds directory
+Extract everything inside My-ROUNDS-mod-main into your rounds directory
+
+## Tada!
