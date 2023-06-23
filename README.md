@@ -4,7 +4,7 @@
 
 ### Keybinds
 
-H - Double jump height 
+H - Double jump height \n
 J - Regular jump height
 
 ### Misc. Stuff
