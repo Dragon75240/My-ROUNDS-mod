@@ -4,12 +4,12 @@
 
 ### Keybinds
 
-H - Double jump height
+H - Double jump height 
 J - Regular jump height
 
 ### Misc. Stuff
 
-No Overheat!
+No Overheat! 
 No Reloading Required!
 
 # Requirements
