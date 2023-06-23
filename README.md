@@ -1,13 +1,13 @@
-### My-ROUNDS-mod
+# My-ROUNDS-mod
 
 ## Features
 
-# Keybinds
+### Keybinds
 
 H - Double jump height
 J - Regular jump height
 
-# Misc. Stuff
+### Misc. Stuff
 
 No Overheat!
 No Reloading Required!
